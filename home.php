@@ -186,14 +186,6 @@ include 'components/wishlist_cart.php';
 
 </section>
 
-
-
-
-
-
-
-
-
 <?php include 'components/footer.php'; ?>
 
 <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
